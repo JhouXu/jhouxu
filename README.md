@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![snake-animate](https://raw.githubusercontent.com/JhouXu/jhouxu/output/github-contribution-grid-snake.svg)
+
 ![snake-animate](https://raw.githubusercontent.com/JhouXu/jhouxu/output/github-contribution-grid-snake-dark.svg)
 
 <!-- 统计卡片 -->
