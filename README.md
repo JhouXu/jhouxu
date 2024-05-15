@@ -1,15 +1,27 @@
+### 嗨 👋
+
+<div style="text-align: justify">
+  <p>👨我叫做 JhouXu</p>
+  <p>😀是一名细节控前端工程师，注重界面适配和用户体验，热衷于开发合理动画增加程序的趣味性和互动性。</p>
+  <p>
+    👨‍💻主要技术栈：HTML, CSS, Sass, Less, JavaScript, Vue2, Vue3, CanvasJS, GsapJS, PixiJS, EChartsJS, NuxtJS, BootstrapUI, ElementUI, VantUI, NodeJS, Java, C#, .Net 等
+  </p>
+  <p>
+    🌏更多信息，可以前往开源博客
+    <a href="https://jhouxu.github.io/apecode/">猿木函</a>
+  </p>
+</div>
+
 ### Hi there 👋
 
-![snake-animate](https://raw.githubusercontent.com/JhouXu/jhouxu/output/github-contribution-grid-snake.svg)
-
-<!-- 统计卡片 -->
-<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md#github-%E7%BB%9F%E8%AE%A1%E5%8D%A1%E7%89%87 -->
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JhouXu&show_icons=true" /></a> | <a href="https://github.com/anuraghazra/convoychat"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhouXu&layout=compact" /></a> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-### View
-
-counting of visitors to this page in this section started from April 1, 2024.
-
-<img src="https://profile-counter.glitch.me/jhouxu/count.svg" />
+<div style="text-align: justify">
+  <p>👨I'am JhouXu</p>
+  <p>😀I am a detail control front-end engineer, focusing on interface adaptation and user experience, Passionate to develop reasonable animations to increase the fun and interaction of procedures</p>
+  <p>
+    👨‍💻Main technology stacks: HTML, CSS, Sass, Less, JavaScript, Vue2, Vue3, CanvasJS, GsapJS, PixiJS, EChartsJS, NuxtJS, BootstrapUI, ElementUI, VantUI, NodeJS, Java, C#, .Net
+  </p>
+  <p>
+    🌏More information, you can go to open source blog
+    <a href="https://jhouxu.github.io/apecode/">ApeCode</a>
+  </p>
+</div>
