@@ -1,4 +1,4 @@
-### 嗨 👋
+### 👋 嗨
 
 <div style="text-align: justify">
   <p>👨我叫做 JhouXu</p>
@@ -9,7 +9,7 @@
   </p>
 </div>
 
-### Hi 👋
+### 👋 Hi
 
 <div style="text-align: justify">
   <p>👨I'am JhouXu</p>
@@ -20,7 +20,7 @@
   </p>
 </div>
 
-### Technology 👨‍💻
+### 👨‍💻 Technology
 
 <div>
   <img src="https://img.shields.io/badge/HTML-orange?logo=html5&color=ff7f2a" alt="HTML">
@@ -51,7 +51,7 @@
   <img src="https://img.shields.io/badge/MySQL-blue?logo=mysql&color=4e8cba" alt="MySQL">
 </div>
 
-### Commit 🗒️
+### 🗒️ Commit
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JhouXu/jhouxu/blob/output/github-contribution-grid-snake-dark.svg" />
